@@ -1,0 +1,31 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+*.egg-info/
+pip-wheel-metadata/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoint/
+
+# --- VSCode ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Cache ---
+*.cache/
+.cache/
